@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BlasphemousInfo/static/css/main.ded50928.chunk.css",
+    "main.js": "/BlasphemousInfo/static/js/main.30a0d4d1.chunk.js",
+    "main.js.map": "/BlasphemousInfo/static/js/main.30a0d4d1.chunk.js.map",
+    "runtime-main.js": "/BlasphemousInfo/static/js/runtime-main.d7ceedc6.js",
+    "runtime-main.js.map": "/BlasphemousInfo/static/js/runtime-main.d7ceedc6.js.map",
+    "static/js/2.7b5ad284.chunk.js": "/BlasphemousInfo/static/js/2.7b5ad284.chunk.js",
+    "static/js/2.7b5ad284.chunk.js.map": "/BlasphemousInfo/static/js/2.7b5ad284.chunk.js.map",
+    "static/js/3.4c1d4cb2.chunk.js": "/BlasphemousInfo/static/js/3.4c1d4cb2.chunk.js",
+    "static/js/3.4c1d4cb2.chunk.js.map": "/BlasphemousInfo/static/js/3.4c1d4cb2.chunk.js.map",
+    "index.html": "/BlasphemousInfo/index.html",
+    "static/css/main.ded50928.chunk.css.map": "/BlasphemousInfo/static/css/main.ded50928.chunk.css.map",
+    "static/js/2.7b5ad284.chunk.js.LICENSE.txt": "/BlasphemousInfo/static/js/2.7b5ad284.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ceedc6.js",
+    "static/js/2.7b5ad284.chunk.js",
+    "static/css/main.ded50928.chunk.css",
+    "static/js/main.30a0d4d1.chunk.js"
+  ]
+}
